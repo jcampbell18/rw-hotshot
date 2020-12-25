@@ -2,6 +2,7 @@
 
 - [x] HTML5
 - [x] CSS
+- [x] Javascript
 - [x] PWA compatible
 
 This code is a reflection of a live website/business called [RW-HotShot.com](https://rw-hotshot.com)
